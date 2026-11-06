@@ -1,0 +1,8 @@
+{
+  "name": "Electrical Load Calculator ver2.0 (to Gibhub)",
+  "description": "Multi-tier electrical maximum demand calculation and automatic breaker sizing across DB, Sub-DB, and MSB with IEC/BS standards, phase balancing, and transformer/generator sizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
